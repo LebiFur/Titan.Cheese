@@ -1,0 +1,1 @@
+Standalone, serialization solution for [Titan](https://github.com/LebiFur/Titan)
